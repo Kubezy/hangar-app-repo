@@ -1,0 +1,9 @@
+---
+name: Keycloak
+version: Latest
+maintainer: Kubezy
+description: Open Source Identity and Access Management
+url: https://www.keycloak.org/
+category: security
+required_services:
+  - loadbalancer
