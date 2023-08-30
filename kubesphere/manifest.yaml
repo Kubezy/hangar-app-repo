@@ -1,8 +1,12 @@
 ---
 name: KUBESPHERE
+webslug: "kubesphere"
 title: "KubeSphere"
 version: v3.3.0
 maintainer: xuwei.mango@gmail.com
 description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management
 url: https://kubesphere.io
 category: management
+appid: "0000001"
+featured: yes
+
