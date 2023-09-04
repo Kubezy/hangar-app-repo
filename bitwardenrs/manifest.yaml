@@ -1,29 +1,10 @@
----
 name: Bitwardenrs
+webslug: "bitwardenrs"
+title: "Bitwardenrs"
 version: 1.17.0
-maintainer: keith@hubner.co.uk
+maintainer: Kubezy
 description: Open Source Password Manager (Bitwarden server API implementation written in Rust) 
 url: https://github.com/dani-garcia/bitwarden_rs
 category: management
-dependencies:
-  - cert-manager
-plans:
-  - label: "1GB"
-    configuration:
-      VOLUME_SIZE:
-        value: 1Gi
-  - label: "2GB"
-    configuration:
-      VOLUME_SIZE:
-        value: 2Gi
-  - label: "5GB"
-    configuration:
-      VOLUME_SIZE:
-        value: 5Gi
-configuration:
-  CLUSTER_ID:
-    label: "Cluster ID"
-    value: "CIVO:CLUSTER_ID"
-  EMAIL_ADDRESS:
-    label: "Email Address"
-    value: "CIVO:EMAIL_ADDRESS"  
+appid: "0000005"
+featured: yes

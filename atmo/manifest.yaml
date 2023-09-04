@@ -1,8 +1,10 @@
----
 name: atmo
+webslug: "atmo"
 title: "Atmo"
 version: "0.2.2"
-maintainer: connor@suborbital.dev
+maintainer: Kubezy
 description: Atmo allows you to run secure and high performance cloud native applications based on WebAssembly.
 url: https://suborbital.dev
 category: architecture
+appid: "0000006"
+featured: yes

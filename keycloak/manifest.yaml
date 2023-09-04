@@ -1,9 +1,12 @@
----
 name: Keycloak
+webslug: "keycloak"
+title: "Keycloak"
 version: Latest
 maintainer: Kubezy
 description: Open Source Identity and Access Management
 url: https://www.keycloak.org/
 category: security
+appid: "0000003"
+featured: yes
 required_services:
   - loadbalancer
