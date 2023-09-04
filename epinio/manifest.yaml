@@ -1,0 +1,10 @@
+name: Epinio
+webslug: "epinio"
+title: "EpinIO"
+version: v1.9.0
+maintainer: Kubezy
+description: "The Application Development Engine for Kubernetes"
+url: https://epinio.io/
+category: management
+appid: "0000086"
+featured: no

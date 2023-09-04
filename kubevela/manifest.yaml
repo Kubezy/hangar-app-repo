@@ -1,0 +1,11 @@
+---
+name: KubeVela
+webslug: "kubevela"
+title: KubeVela
+version: 1.0.1
+maintainer: Kubezy
+description: The Modern Application Platform.
+url: https://kubevela.io
+category: management
+appid: "0000057"
+featured: no

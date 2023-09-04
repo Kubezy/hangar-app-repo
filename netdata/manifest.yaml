@@ -1,0 +1,11 @@
+---
+name: netdata
+webslug: "netdata"
+title: "Netdata"
+version: Latest
+maintainer: Kubezy
+description: Netdata is distributed, real-time performance and health monitoring for systems and applications.
+url: https://github.com/netdata/netdata
+category: monitoring
+appid: "0000044"
+featured: no

@@ -1,0 +1,10 @@
+---
+name: gitlab
+webslug: "gitlab"
+title: "GitLab"
+version: "16.2.3"
+maintainer: Kubezy
+description: GitLab is a single application that spans the entire software development lifecycle. 
+category: management
+appid: "0000077"
+featured: no

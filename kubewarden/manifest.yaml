@@ -1,0 +1,11 @@
+---
+name: Kubewarden
+webslug: "kubewarden"
+title: Kubewarden
+version: "v1.6.0"
+maintainer: Kubezy
+description: "Kubewarden is a Kubernetes Dynamic Admission Controller that validates incoming requests using policies written in WebAssembly."
+url: https://www.kubewarden.io/
+category: security
+appid: "0000055"
+featured: no

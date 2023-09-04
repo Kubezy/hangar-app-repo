@@ -1,0 +1,11 @@
+---
+name: Acorn
+webslug: "acorn"
+title: "Acorn"
+version: 0.7.1
+maintainer: Kubezy
+description: A simple application deployment framework for Kubernetes
+url: https://acorn.io
+category: management
+appid: "0000098"
+featured: no

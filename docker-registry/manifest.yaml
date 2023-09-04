@@ -1,0 +1,11 @@
+---
+name: docker-registry
+webslug: "docker-registry"
+title: "Docker Registry"
+version: ALPHA
+maintainer: Kubezy
+description: A registry is a storage and content delivery system, holding named Docker images, available in different tagged versions.
+url:
+category: architecture
+appid: "0000089"
+featured: no

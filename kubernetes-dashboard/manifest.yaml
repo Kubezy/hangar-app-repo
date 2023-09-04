@@ -1,0 +1,11 @@
+---
+name: kubernetes-dashboard
+webslug: "kubernetes-dashboard"
+title: "Kubernetes Dashboard"
+version: v2.4.0
+maintainer: Kubezy
+description: Kubernetes Dashboard provides a UI for interacting and managing Kubernetes clusters
+url: https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+category: management
+appid: "0000059"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: kafka
+webslug: "kafka"
+title: "Kafka"
+version: 2.7.0
+maintainer: Kubezy
+description: Kafka is a distributed streaming platform used for building real-time data pipelines and streaming apps.
+url: https://kafka.apache.org/
+category: architecture
+appid: "0000069"
+featured: no

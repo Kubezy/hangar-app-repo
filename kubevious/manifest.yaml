@@ -1,0 +1,10 @@
+name: Kubevious
+webslug: "kubevious"
+title: Kubevious
+version: v1.0.3
+maintainer: Kubezy
+description: "Kubevious is an app-centric assurance, validation, and introspection platform for Kubernetes."
+url: https://kubevious.io
+category: management
+appid: "0000056"
+featured: no

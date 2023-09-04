@@ -1,0 +1,10 @@
+name: Kubeless
+webslug: "kubeless"
+title: "Kubeless"
+version: 1.0.5
+maintainer: Kubezy
+description: "Kubeless is a Kubernetes-native serverless framework that lets you deploy small bits of code without having to worry about the underlying infrastructure."
+url: https://kubeless.io/
+category: architecture
+appid: "0000061"
+featured: no

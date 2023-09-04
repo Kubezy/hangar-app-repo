@@ -1,0 +1,13 @@
+---
+name: metrics-server
+webslug: "metrics-server"
+title: "Metrics Server"
+version: (default)
+default: true
+built_in: true
+maintainer: Kubezy
+description: Metrics Server is a cluster-wide aggregator of resource usage data.
+url: https://kubernetes.io/docs/tasks/debug-application-cluster/resource-metrics-pipeline/#metrics-server
+category: architecture
+appid: "0000047"
+featured: no

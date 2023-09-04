@@ -1,0 +1,11 @@
+---
+name: sealed-secrets
+webslug: "sealed-secrets"
+title: "Sealed Secrets"
+version: v0.23.1
+maintainer: Kubezy
+description: A Kubernetes controller and tool for one-way encrypted Secrets
+url: https://github.com/bitnami-labs/sealed-secrets
+category: architecture
+appid: "0000022"
+featured: no

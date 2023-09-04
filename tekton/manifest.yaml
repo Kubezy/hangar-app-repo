@@ -1,0 +1,11 @@
+---
+name: Tekton
+webslug: "tekton"
+title: Tekton
+version: v0.50.0
+maintainer: Kubezy
+description: Tekton is a Kubernetes Native Framework for building CI/CD Pipelines.  The core pipeline, dashboard, and trigger components are included.
+url: https://cloud.google.com/tekton
+category: ci_cd
+appid: "0000018"
+featured: no

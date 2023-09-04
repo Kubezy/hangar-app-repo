@@ -1,0 +1,11 @@
+---
+name: Joomla
+webslug: "joomla"
+title: "Joomla"
+version: 3.9.24
+maintainer: Kubezy
+description: Popular open source content management system (CMS)
+url: https://www.joomla.org/
+category: management
+appid: "0000070"
+featured: no

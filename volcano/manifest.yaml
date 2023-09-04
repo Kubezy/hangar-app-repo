@@ -1,0 +1,11 @@
+---
+name: Volcano
+webslug: "volcano"
+title: "Volcano"
+version: "1.6.0"
+maintainer: Kubezy
+description: Cloud native batch scheduling system for compute-intensive workloads
+url: https://volcano.sh/
+category: management
+appid: "0000012"
+featured: no

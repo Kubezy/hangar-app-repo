@@ -1,0 +1,11 @@
+---
+name: gitea
+webslug: "gitea"
+title: "Gitea"
+version: 1.12.5
+maintainer: Kubezy
+description: Gitea is a community managed lightweight code hosting solution written in Go.
+url: https://gitea.io
+category: management
+appid: "0000078"
+featured: no

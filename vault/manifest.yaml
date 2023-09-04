@@ -1,0 +1,10 @@
+name: hashicorp-vault
+webslug: "hashicorp-vault"
+title: "HashiCorp Vault"
+version: "0.24.0"
+maintainer: Kubezy
+description: "Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data."
+url: https://www.vaultproject.io/
+category: security
+appid: "0000013"
+featured: no

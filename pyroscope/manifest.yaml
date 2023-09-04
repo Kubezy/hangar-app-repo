@@ -1,0 +1,11 @@
+---
+name: Pyroscope
+webslug: "pyroscope"
+title: "Pyroscope"
+version: "0.2.5"
+maintainer: Kubezy
+description: Pyroscope is a continuous profiling platform! Debug performance issues down to a single line of code.
+url: https://pyroscope.io/
+category: monitoring
+appid: "0000028"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: Shipa
+webslug: "shipa"
+title: Shipa
+version: "1.7.2"
+maintainer: Kubezy
+description: Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure. 
+url: https://learn.shipa.io/docs/quickstart
+category: management
+appid: "0000020"
+featured: no

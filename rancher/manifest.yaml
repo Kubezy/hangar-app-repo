@@ -1,0 +1,10 @@
+name: Rancher
+webslug: "rancher"
+title: "Rancher"
+version: 2.7.5
+maintainer: Kubezy
+description: "Addresses the operational and security challenges of managing multiple Kubernetes clusters with integrated tools for running containerized workloads."
+url: https://rancher.com/
+category: management
+appid: "0000026"
+featured: no

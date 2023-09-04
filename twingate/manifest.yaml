@@ -1,0 +1,11 @@
+---
+name: twingate-connector
+webslug: "twingate-connector"
+title: "Twingate Connector"
+version: "latest"
+maintainer: Kubezy
+description: Connectors are Twingate components that are deployed behind your firewall to provide access to private Resources.
+url: https://www.twingate.com
+category: security
+appid: "0000015"
+featured: no

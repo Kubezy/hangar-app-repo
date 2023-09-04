@@ -1,0 +1,11 @@
+---
+name: PMM
+webslug: "percona-monitoring-and-management"
+title: "Percona Monitoring and Management"
+version: "2.36.0"
+maintainer: Kubezy
+description: "Open source database monitoring, management, and observability solution for MySQL, PostgreSQL, and MongoDB."
+url: https://www.percona.com/software/database-tools/percona-monitoring-and-management
+category: monitoring
+appid: "0000035"
+featured: no
