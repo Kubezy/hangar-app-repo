@@ -1,0 +1,11 @@
+---
+name: polaris
+webslug: "polaris"
+title: "Polaris"
+version: 7.3.2
+maintainer: Kubezy
+description: Polaris identifies Kubernetes deployment configuration errors that can cause security vulnerabilities, outages, scaling limitations and more.
+url: https://www.fairwinds.com/polaris
+category: security
+appid: "0000032"
+featured: no

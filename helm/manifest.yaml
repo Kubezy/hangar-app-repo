@@ -1,0 +1,11 @@
+---
+name: Helm
+webslug: "helm"
+title: "Helm"
+version: 2.16.5
+maintainer: Kubezy
+description: Helm (tiller) helps you define, install, and upgrade even the most complex Kubernetes application.
+url: https://helm.sh
+category: management
+appid: "0000074"
+featured: no

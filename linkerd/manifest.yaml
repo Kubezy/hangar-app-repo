@@ -1,0 +1,11 @@
+---
+name: Linkerd
+webslug: "linkerd"
+title: "Linkerd"
+version: Latest
+maintainer: Kubezy
+description: Linkerd is a service mesh, giving you runtime debugging, observability, reliability, and security.
+url: https://linkerd.io
+category: architecture
+appid: "0000053"
+featured: no

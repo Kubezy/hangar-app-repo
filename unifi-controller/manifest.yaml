@@ -1,0 +1,10 @@
+name: unifi-network-controller
+webslug: "unifi-network-controller"
+title: "Unifi network controller"
+version: "stable-6"
+maintainer: Kubezy
+description: The UniFi Network Controller is a free software suite that allows you to set up, configure, manage and analyze your UniFi network in a centralized manner. 
+url: https://www.ui.com/
+category: management
+appid: "0000014"
+featured: no

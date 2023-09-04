@@ -1,0 +1,11 @@
+---
+name: prometheus-operator
+webslug: "prometheus-operator"
+title: "Prometheus Operator"
+version: "0.38.1"
+maintainer: Kubezy
+description: Prometheus Operator App install prometheus, alertmanager, grafana and other tools to monitor your kubernetes cluster.
+url: https://github.com/prometheus-community
+category: monitoring
+appid: "0000029"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: reloader
+webslug: "reloader"
+title: "Reloader"
+version: "v0.0.125"
+maintainer: Kubezy
+description: A Kubernetes controller to automatically reload values for ConfigMaps and Secrets in Pods.
+url: https://stakater.com/opensource
+category: architecture
+appid: "0000023"
+featured: no

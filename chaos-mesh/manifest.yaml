@@ -1,0 +1,11 @@
+---
+name: chaos-mesh
+webslug: "chaos-mesh"
+title: "Chaos Mesh"
+version: (default)
+maintainer: Kubezy
+description: A Chaos Engineering Platform for Kubernetes
+url: https://github.com/chaos-mesh/chaos-mesh
+category: ci_cd
+appid: "0000093"
+featured: no

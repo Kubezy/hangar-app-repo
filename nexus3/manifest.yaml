@@ -1,0 +1,11 @@
+---
+name: nexus3
+webslug: "nexus3"
+title: "Sonatype nexus repository oss"
+version: "3.30.1"
+maintainer: Kubezy
+description: The free artifact repository with universal format support.
+url: https://www.sonatype.com/products/repository-oss
+category: ci_cd
+appid: "0000042"
+featured: no

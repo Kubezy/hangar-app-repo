@@ -1,0 +1,11 @@
+---
+name: Ketch
+webslug: "ketch"
+title: "Ketch"
+version: "0.7.0"
+maintainer: Kubezy
+description: Ketch improves the developer experience and productivity by implementing a standard application-level definition. 
+url: https://learn.theketch.io/docs/getting-started
+category: management
+appid: "0000066"
+featured: no

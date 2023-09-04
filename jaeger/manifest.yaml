@@ -1,0 +1,10 @@
+name: Jaeger-Operator
+webslug: "jaeger-operator"
+title: "Jaeger Operator"
+version: "1.2.0"
+maintainer: Kubezy
+description: Jaeger-Operator is a Kubernetes Operator implementation of the Jaeger Distributed Tracing tool
+url: https://github.com/jaegertracing/jaeger-operator
+category: monitoring
+appid: "0000072"
+featured: no

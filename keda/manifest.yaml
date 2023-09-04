@@ -1,0 +1,10 @@
+name: keda
+webslug: "keda"
+title: "KEDA"
+version: 2.11.2
+maintainer: Kubezy
+description: KEDA is a Kubernetes-based Event Driven Autoscaler. With KEDA, you can scale any container in Kubernetes based on the number of events needing to be processed.
+url: https://keda.sh/
+category: architecture
+appid: "0000068"
+featured: no

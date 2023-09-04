@@ -1,0 +1,11 @@
+---
+name: NextCloud
+webslug: "nextcloud"
+title: "NextCloud"
+version: 20.0.7
+maintainer: Kubezy
+description: Nextcloud is a completely integrated self-managed content collaboration platform
+url: https://nextcloud.com/
+category: management
+appid: "0000043"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: Nginx
+webslug: "nginx"
+title: "Nginx"
+version: latest
+maintainer: Kubezy
+description: ingress-nginx is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer.
+url: https://kubernetes.github.io/ingress-nginx/
+category: architecture
+appid: "0000041"
+featured: no

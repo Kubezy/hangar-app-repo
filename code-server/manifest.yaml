@@ -1,0 +1,11 @@
+---
+name: codeserver
+webslug: "codeserver"
+title: "Code Server"
+version: 3.11.1
+maintainer: Kubezy
+description: Run VS Code on any machine anywhere and access it through the browser.
+url: https://github.com/cdr/code-server
+category: management
+appid: "0000092"
+featured: no

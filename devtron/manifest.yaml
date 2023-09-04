@@ -1,0 +1,10 @@
+name: Devtron
+webslug: "devtron"
+title: "Devtron"
+version:
+maintainer: Kubezy
+description: A tool integration platform for Kubernetes
+url: https://github.com/devtron-labs/devtron
+category: ci_cd
+appid: "0000090"
+featured: no

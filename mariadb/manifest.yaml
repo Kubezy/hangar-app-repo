@@ -1,0 +1,11 @@
+---
+name: MariaDB
+webslug: "mariadb"
+title: "MariaDB"
+version: 10.4.7
+maintainer: Kubezy
+description: MariaDB is a community-developed fork of MySQL intended to remain free under the GNU GPL.
+url: https://mariadb.com
+category: database
+appid: "0000048"
+featured: no

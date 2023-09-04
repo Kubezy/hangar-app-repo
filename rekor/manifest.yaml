@@ -1,0 +1,11 @@
+---
+name: rekor
+webslug: "rekor"
+title: "rekor"
+version: "0.2.2"
+maintainer: Kubezy
+description: Rekor provides a restful API based server for validation and a transparency log for storage.
+url: https://sigstore.dev/
+category: architecture
+appid: "0000024"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: percona-mysql
+webslug: "percona-mysql"
+title: "Percona MySQL"
+version: "1.11.0"
+maintainer: Kubezy
+description: Percona Operator for MySQL based on Percona XtraDB Cluster.
+url: https://www.percona.com/doc/kubernetes-operator-for-pxc/
+category: database
+appid: "0000034"
+featured: no

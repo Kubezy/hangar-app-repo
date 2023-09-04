@@ -1,0 +1,11 @@
+---
+name: kyverno
+webslug: "kyverno"
+title: "Kyverno"
+version: "1.8.2"
+maintainer: Kubezy
+description: Kyverno is a policy engine designed for Kubernetes
+url: https://kyverno.io
+category: security
+appid: "0000054"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: Ghost
+webslug: "ghost"
+title: "Ghost"
+version: 4.8.3
+maintainer: Kubezy
+description: Ghost is a free and open source blogging platform designed to simplify the process of online publishing for individual bloggers as well as online publications.
+url: https://ghost.org/
+category: management
+appid: "0000080"
+featured: no

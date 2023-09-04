@@ -1,0 +1,11 @@
+---
+name: Flux
+webslug: "flux"
+title: "Flux"
+version: Latest
+maintainer: Kubezy
+description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+url: https://fluxcd.io
+category: ci_cd
+appid: "0000082"
+featured: no

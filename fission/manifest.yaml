@@ -1,0 +1,11 @@
+---
+name: Fission
+webslug: "fission"
+title: "Fission"
+version: "v1.16.0"
+maintainer: Kubezy
+description: Fission is a Kubernetes-native serverless framework. Deploy functions in any language and map them to events like HTTP requests with fast cold-start time.
+url: https://fission.io/
+category: architecture
+appid: "0000083"
+featured: no

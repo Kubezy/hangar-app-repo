@@ -1,0 +1,11 @@
+---
+name: Mesh
+webslug: "mesh"
+title: "Mesh"
+version: "v1.4.5"
+maintainer: Kubezy
+description: Traefik Mesh is a straight-forward, easy to configure, and non-invasive service mesh.
+url: https://traefik.io/traefik-mesh/
+category: architecture
+appid: "0000049"
+featured: no

@@ -1,0 +1,11 @@
+---
+name: paralus
+webslug: "paralus"
+title: "Paralus"
+version: "0.2.3"
+maintainer: Kubezy
+description: Paralus is a Kubernetes access management tool
+url: https://www.paralus.io/
+category: security
+appid: "0000037"
+featured: no

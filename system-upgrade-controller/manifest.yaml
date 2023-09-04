@@ -1,0 +1,10 @@
+name: system-upgrade-controller
+webslug: "system-upgrade-controller"
+title: System Upgrade Controller
+version: v0.6.2
+maintainer: Kubezy
+description: "A general-purpose, Kubernetes-native upgrade controller (for nodes)."
+url: https://github.com/rancher/system-upgrade-controller
+category: architecture     
+appid: "0000019"
+featured: no

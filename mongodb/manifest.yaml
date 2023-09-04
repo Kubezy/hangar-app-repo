@@ -1,0 +1,11 @@
+---
+name: MongoDB
+webslug: "mongoDB"
+title: "MongoDB"
+version: 4.2.12
+maintainer: Kubezy
+description: MongoDB document databases provide high availability and easy scalability.
+url: https://www.mongodb.com
+category: database
+appid: "0000045"
+featured: no

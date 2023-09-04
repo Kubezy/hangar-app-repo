@@ -1,0 +1,11 @@
+---
+name: permission-manager
+webslug: "permission-manager"
+title: "Permission Manager"
+version: 1.6.0
+maintainer: Kubezy
+description: Permission Manager provides an easy and user-friendly mechanism for managing RBAC in Kubernetes.
+url: https://github.com/sighupio/permission-manager
+category: management
+appid: "0000033"
+featured: no

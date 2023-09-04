@@ -1,0 +1,10 @@
+name: cert-manager
+webslug: "cert-manager"
+title: "Cert Manager"
+version: v1.12.3
+maintainer: Kubezy
+description: cert-manager is a native Kubernetes certificate management controller
+url: https://cert-manager.io/docs/release-notes/release-notes-1.0/
+category: architecture
+appid: "0000094"
+featured: no

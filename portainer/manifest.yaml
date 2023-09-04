@@ -1,0 +1,11 @@
+---
+name: Portainer
+webslug: "portainer"
+title: "Portainer"
+version: "2.16.2"
+maintainer: Kubezy
+description: An open source kubernetes management platform
+url: https://portainer.io
+category: management
+appid: "0000031"
+featured: no
