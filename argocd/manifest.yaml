@@ -1,7 +1,10 @@
 name: argo-cd
+webslug: "argo-cd"
 title: "Argo CD"
-maintainer: engin.diri@pulumi.com
+version: v2.8.0
+maintainer: Kubezy
 description: Declarative continuous deployment for Kubernetes
 url: https://github.com/argoproj/argo-cd/
 category: ci_cd
-version: v2.8.0
+appid: "0000010"
+featured: yes

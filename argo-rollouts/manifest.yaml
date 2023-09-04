@@ -1,7 +1,10 @@
 name: argo-rollouts
+webslug: "argo-rollouts"
 title: "Argo Rollouts"
-maintainer: akundu@redhat.com
+version: "v1.4.1"
+maintainer: Kubezy
 description: Kubernetes Progressive Delivery Controller
 url: https://github.com/argoproj/argo-rollouts
 category: ci_cd
-version: "v1.4.1"
+appid: "0000009"
+featured: yes
