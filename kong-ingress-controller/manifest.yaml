@@ -7,6 +7,6 @@ description: Kong Ingress Controller is open-source Ingress Controller for Kuber
 url: https://docs.konghq.com/kubernetes-ingress-controller/
 category: architecture
 appid: "0000002"
-featured: yes
+featured: no
 required_services:
   - loadbalancer

@@ -7,4 +7,4 @@ description: Prometheus-Blackbox-Exporter App install  Prometheus-Blackbox-Expor
 url: https://github.com/prometheus-community
 category: monitoring
 appid: "0000004"
-featured: yes
+featured: no

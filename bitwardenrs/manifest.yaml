@@ -7,4 +7,4 @@ description: Open Source Password Manager (Bitwarden server API implementation w
 url: https://github.com/dani-garcia/bitwarden_rs
 category: management
 appid: "0000005"
-featured: yes
+featured: no

@@ -7,6 +7,6 @@ description: Open Source Identity and Access Management
 url: https://www.keycloak.org/
 category: security
 appid: "0000003"
-featured: yes
+featured: no
 required_services:
   - loadbalancer

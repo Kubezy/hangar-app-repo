@@ -7,4 +7,4 @@ description: The container platform tailored for Kubernetes multi-cloud, datacen
 url: https://kubesphere.io
 category: management
 appid: "0000001"
-featured: yes
+featured: no
